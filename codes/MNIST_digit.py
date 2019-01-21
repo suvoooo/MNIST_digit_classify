@@ -318,20 +318,6 @@ for ik in range(1496, 1511, 1):
 print "!!!!!!!!!!! uhooooo goood job suvoooooooo!  3rd time !!!!!!!"
 
 
-#print "+++++++++++++++++++++++++++++++++++++++++++++++"
-#print "now just check the final numbers i.e. handwritten data"
-#print "+++++++++++++++++++++++++++++++++++++++++++++++"
-
-
-
-
-#for ig in range(4956, 5003,1):
-#	three_d = (np.reshape(X_hand_test.values[ig], (28, 28)) * 255).astype(np.uint8)
-#	plt.title('predicted label: {0}'. format(y_hand_pred[ig]))
-#	plt.imshow(three_d, interpolation='nearest', cmap='gray')
-#	plt.show()
-#print "!!!!!!!!!!! uhooooo goood job suvoooooooo!  3rd time !!!!!!!"
-
 
 
 
