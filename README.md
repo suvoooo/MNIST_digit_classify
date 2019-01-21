@@ -1,6 +1,6 @@
 # MNIST_digit_classify
 ## MNIST_digit_classify with SVM polynomial kernel
-This small project deals with MNIST hand-written digit classification problem. The train and test data are obtained\   
+This small project deals with MNIST hand-written digit classification problem. The train and test data are obtained   
 from [Kaggle](https://www.kaggle.com/oddrationale/mnist-in-csv) and it contains 784 pixel values in columns and label\ 
 for each digit. 
 Using only 12000 training samples (out of 60000), 96% score is obtained and on the test data the score is 93%. \
