@@ -8,3 +8,4 @@ Finally using [Mypaint](http://mypaint.org/), I have created images from 0 to 9.
 the images were resized to 28X28 pixels and they were analyzed using the algorithm optimized for MNIST data. 
 70% of the samples were correctly classified i.e. 7 numbers were correctly identified among 10 (0-9) numbers. 
 A detailed explanation is given in [Towards Data Science](https://towardsdatascience.com/support-vector-machine-mnist-digit-classification-with-python-including-my-hand-written-digits-83d6eca7004a). 
+The results of the classification on my own hand written digits are given below ![MNIST](https://github.com/suvoooo/MNIST_digit_classify/Hand_Predict_Images/Hand_digits_results.png)
